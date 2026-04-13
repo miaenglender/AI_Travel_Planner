@@ -30,7 +30,7 @@ Transform raw game history into meaningful predictive features for a binary clas
 
 We use the Kaggle competition dataset:
 
-- :contentReference[oaicite:0]{index=0}
+- [March Machine Learning Mania 2024](https://www.kaggle.com/competitions/march-machine-learning-mania-2024/data)
 
 ### Data includes:
 - Regular season game results
